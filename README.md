@@ -1,4 +1,3 @@
-# Sudoku_Si
+# Sudoku Problem Solver
 
-Brincadeira pra tentar resolver sudoku.
-Disciplina de Sistemas Inteligentes.
+Simple attempt to solve Sudoku problem.
